@@ -2,3 +2,6 @@
 *.data
 RenderMan/
 librenderman.so
+Synths
+Data/
+Results/
